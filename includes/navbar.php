@@ -30,7 +30,7 @@ echo '<nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
 			 <div id="closeMenu"> <b class="fa fa-close"></b> CLOSE </div>
 			 </li>
 
-			<li><a href="#top"> <span class="logo">  Your Site Name </span> </a> </li>
+			<li><a href="#top"> <span class="logo">  Your Name </span> </a> </li>
 		 </ul>';
 		   
            /*<ul class="nav navbar-nav navbar-right">
